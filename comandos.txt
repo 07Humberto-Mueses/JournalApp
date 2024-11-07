@@ -1,0 +1,18 @@
+Para crear el proyecto
+yarn create vite JournalApp
+
+Para instalar Roter, como manejo de rutas en el proyecto
+yarn add react-router-dom@6
+
+Para ejecutar el proyecto 
+yarn dev
+
+Pagina oficial de los iconos
+https://mui.com/material-ui/getting-started/installation/
+Instalacion de material UI para el diseño
+yarn add @mui/material @emotion/react @emotion/styled
+Instalacion de los iconos 
+npm install @mui/icons-material
+
+<CssBaseline/>   Estabiliza los elementos del CSS para montarse
+En la carpeta theme y archivo AppTheme.jsx <ThemeProvider theme={theme}> permite cargar los elementos del CSS
